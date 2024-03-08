@@ -1,0 +1,2292 @@
+[
+  {
+    "Id": 26,
+    "Name": "Argentina",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/26.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Mâs Monumental",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19570.png",
+    "StadiumCapacity": 83214
+  },
+  {
+    "Id": 434,
+    "Name": "Gimnasia L.P.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/434.png",
+    "City": "La Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Juan Carmelo Zerillo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/77.png",
+    "StadiumCapacity": 24544
+  },
+  {
+    "Id": 435,
+    "Name": "River Plate",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/435.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Mâs Monumental",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19570.png",
+    "StadiumCapacity": 83214
+  },
+  {
+    "Id": 436,
+    "Name": "Racing Club",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/436.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Presidente Juan Domingo Perón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/99.png",
+    "StadiumCapacity": 51500
+  },
+  {
+    "Id": 437,
+    "Name": "Rosario Central",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/437.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Estadio Gigante de Arroyito",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19391.png",
+    "StadiumCapacity": 41654
+  },
+  {
+    "Id": 438,
+    "Name": "Velez Sarsfield",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/438.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio José Amalfitani",
+    "StadiumImg": "https://media.api-sports.io/football/venues/115.png",
+    "StadiumCapacity": 49747
+  },
+  {
+    "Id": 439,
+    "Name": "Godoy Cruz",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/439.png",
+    "City": "Mendoza, Provincia de Mendoza",
+    "StadiumName": "Estadio Malvinas Argentinas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/80.png",
+    "StadiumCapacity": 40268
+  },
+  {
+    "Id": 440,
+    "Name": "Belgrano Cordoba",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/440.png",
+    "City": "Ciudad de Córdoba, Provincia de Córdoba",
+    "StadiumName": "Estadio Julio César Villagra",
+    "StadiumImg": "https://media.api-sports.io/football/venues/45.png",
+    "StadiumCapacity": 28000
+  },
+  {
+    "Id": 441,
+    "Name": "Union Santa Fe",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/441.png",
+    "City": "Ciudad de Santa Fe, Provincia de Santa Fe",
+    "StadiumName": "Estadio 15 de Abril",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1933.png",
+    "StadiumCapacity": 27000
+  },
+  {
+    "Id": 442,
+    "Name": "Defensa Y Justicia",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/442.png",
+    "City": "Florencio Varela, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Norberto Tito Tomaghello",
+    "StadiumImg": "https://media.api-sports.io/football/venues/59.png",
+    "StadiumCapacity": 20000
+  },
+  {
+    "Id": 443,
+    "Name": "Olimpo Bahia Blanca",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/443.png",
+    "City": "Bahía Blanca, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Roberto Natalio Carminatti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/95.png",
+    "StadiumCapacity": 15000
+  },
+  {
+    "Id": 444,
+    "Name": "Patronato",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/444.png",
+    "City": "Paraná, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Presbítero Bartolomé Grella",
+    "StadiumImg": "https://media.api-sports.io/football/venues/96.png",
+    "StadiumCapacity": 22000
+  },
+  {
+    "Id": 445,
+    "Name": "Huracan",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/445.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Tomás Adolfo Ducó",
+    "StadiumImg": "https://media.api-sports.io/football/venues/82.png",
+    "StadiumCapacity": 48314
+  },
+  {
+    "Id": 446,
+    "Name": "Lanus",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/446.png",
+    "City": "Lanús, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/88.png",
+    "StadiumCapacity": 46619
+  },
+  {
+    "Id": 447,
+    "Name": "Chacarita Juniors",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/447.png",
+    "City": "General San Martín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de Chacarita Juniors",
+    "StadiumImg": "https://media.api-sports.io/football/venues/54.png",
+    "StadiumCapacity": 24300
+  },
+  {
+    "Id": 448,
+    "Name": "Colon Santa Fe",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/448.png",
+    "City": "Ciudad de Santa Fe, Provincia de Santa Fe",
+    "StadiumName": "Estadio Brigadier General Estanislao López",
+    "StadiumImg": "https://media.api-sports.io/football/venues/57.png",
+    "StadiumCapacity": 40000
+  },
+  {
+    "Id": 449,
+    "Name": "Banfield",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/449.png",
+    "City": "Lomas de Zamora, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Florencio Solá",
+    "StadiumImg": "https://media.api-sports.io/football/venues/43.png",
+    "StadiumCapacity": 34901
+  },
+  {
+    "Id": 450,
+    "Name": "Estudiantes L.P.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/450.png",
+    "City": "La Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Único Diego Armando Maradona",
+    "StadiumImg": "https://media.api-sports.io/football/venues/12716.png",
+    "StadiumCapacity": 53000
+  },
+  {
+    "Id": 451,
+    "Name": "Boca Juniors",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/451.png",
+    "City": "Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Alberto José Armando",
+    "StadiumImg": "https://media.api-sports.io/football/venues/46.png",
+    "StadiumCapacity": 49000
+  },
+  {
+    "Id": 452,
+    "Name": "Tigre",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/452.png",
+    "City": "San Fernando, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Dellagiovanna",
+    "StadiumImg": "https://media.api-sports.io/football/venues/112.png",
+    "StadiumCapacity": 26282
+  },
+  {
+    "Id": 453,
+    "Name": "Independiente",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/453.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Libertadores de América",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7131.png",
+    "StadiumCapacity": 52364
+  },
+  {
+    "Id": 454,
+    "Name": "Temperley",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/454.png",
+    "City": "Temperley, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Alfredo Martín Beranger",
+    "StadiumImg": "https://media.api-sports.io/football/venues/111.png",
+    "StadiumCapacity": 19500
+  },
+  {
+    "Id": 455,
+    "Name": "Atletico Tucuman",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/455.png",
+    "City": "San Miguel de Tucumán, Provincia de Tucumán",
+    "StadiumName": "Estadio Monumental Presidente José Fierro",
+    "StadiumImg": "https://media.api-sports.io/football/venues/42.png",
+    "StadiumCapacity": 35200
+  },
+  {
+    "Id": 456,
+    "Name": "Talleres Cordoba",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/456.png",
+    "City": "Ciudad de Córdoba, Provincia de Córdoba",
+    "StadiumName": "Estadio Mario Alberto Kempes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/110.png",
+    "StadiumCapacity": 57503
+  },
+  {
+    "Id": 457,
+    "Name": "Newells Old Boys",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/457.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Estadio Marcelo Alberto Bielsa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/93.png",
+    "StadiumCapacity": 42000
+  },
+  {
+    "Id": 458,
+    "Name": "Argentinos JRS",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/458.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Diego Armando Maradona",
+    "StadiumImg": "https://media.api-sports.io/football/venues/37.png",
+    "StadiumCapacity": 24380
+  },
+  {
+    "Id": 459,
+    "Name": "Arsenal Sarandi",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/459.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Julio Humberto Grondona",
+    "StadiumImg": "https://media.api-sports.io/football/venues/38.png",
+    "StadiumCapacity": 18300
+  },
+  {
+    "Id": 460,
+    "Name": "San Lorenzo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/460.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Pedro Bidegaín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/103.png",
+    "StadiumCapacity": 43494
+  },
+  {
+    "Id": 461,
+    "Name": "San Martin S.J.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/461.png",
+    "City": "San Juan, Provincia de San Juan",
+    "StadiumName": "Estadio Ingeniero Hilario Sánchez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/104.png",
+    "StadiumCapacity": 19000
+  },
+  {
+    "Id": 462,
+    "Name": "Agropecuario",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/462.png",
+    "City": "Carlos Casares, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ofelia Rosenzuaig",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1770.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 463,
+    "Name": "Aldosivi",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/463.png",
+    "City": "Mar del Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José María Minella",
+    "StadiumImg": "https://media.api-sports.io/football/venues/33.png",
+    "StadiumCapacity": 35354
+  },
+  {
+    "Id": 464,
+    "Name": "All Boys",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/464.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Islas Malvinas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/34.png",
+    "StadiumCapacity": 16500
+  },
+  {
+    "Id": 465,
+    "Name": "Atletico DE Rafaela",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/465.png",
+    "City": "Rafaela, Provincia de Santa Fe",
+    "StadiumName": "Estadio Nuevo Monumental",
+    "StadiumImg": "https://media.api-sports.io/football/venues/41.png",
+    "StadiumCapacity": 16000
+  },
+  {
+    "Id": 466,
+    "Name": "Atletico Mitre",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/466.png",
+    "City": "Santiago del Estero, Prov. de Santiago del Estero",
+    "StadiumName": "Estadio Aurinegro",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1735.png",
+    "StadiumCapacity": 10500
+  },
+  {
+    "Id": 467,
+    "Name": "Boca Unidos",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/467.png",
+    "City": "Corrientes, Provincia de Corrientes",
+    "StadiumName": "Estadio José Antonio Romero Feris",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3033.png",
+    "StadiumCapacity": 15172
+  },
+  {
+    "Id": 468,
+    "Name": "Brown DE Adrogue",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/468.png",
+    "City": "Almirante Brown, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Lorenzo Arandilla",
+    "StadiumImg": "https://media.api-sports.io/football/venues/48.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 469,
+    "Name": "Deportivo Moron",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/469.png",
+    "City": "Morón, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Nuevo Francisco Urbano",
+    "StadiumImg": "https://media.api-sports.io/football/venues/65.png",
+    "StadiumCapacity": 32000
+  },
+  {
+    "Id": 470,
+    "Name": "Ferro Carril Oeste",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/470.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Arquitecto Ricardo Etcheverry",
+    "StadiumImg": "https://media.api-sports.io/football/venues/73.png",
+    "StadiumCapacity": 24442
+  },
+  {
+    "Id": 471,
+    "Name": "Flandria",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/471.png",
+    "City": "Luján, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Carlos V",
+    "StadiumImg": "https://media.api-sports.io/football/venues/75.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 472,
+    "Name": "Guillermo Brown",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/472.png",
+    "City": "Puerto Madryn, Provincia de Chubut",
+    "StadiumName": "Estadio Raúl Conti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/49.png",
+    "StadiumCapacity": 8500
+  },
+  {
+    "Id": 473,
+    "Name": "Independ. Rivadavia",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/473.png",
+    "City": "Mendoza, Provincia de Mendoza",
+    "StadiumName": "Estadio Juan Bautista Gargantini",
+    "StadiumImg": "https://media.api-sports.io/football/venues/83.png",
+    "StadiumCapacity": 16000
+  },
+  {
+    "Id": 474,
+    "Name": "Sarmiento Junin",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/474.png",
+    "City": "Junín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Eva Perón de Junín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/107.png",
+    "StadiumCapacity": 22000
+  },
+  {
+    "Id": 475,
+    "Name": "Santamarina",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/475.png",
+    "City": "Tandil, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Municipal General San Martín de Tandil",
+    "StadiumImg": "https://media.api-sports.io/football/venues/106.png",
+    "StadiumCapacity": 8762
+  },
+  {
+    "Id": 476,
+    "Name": "Deportivo Riestra",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/476.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Guillermo Laza",
+    "StadiumImg": "https://media.api-sports.io/football/venues/66.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 477,
+    "Name": "Estudiantes S.l.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/477.png",
+    "City": "Ciudad de San Luis, Provincia de San Luis",
+    "StadiumName": "Estadio Héctor Odicino Pedro Benoza",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1768.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 478,
+    "Name": "Instituto Cordoba",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/478.png",
+    "City": "Ciudad de Córdoba, Provincia de Córdoba",
+    "StadiumName": "Estadio Juan Domingo Perón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/84.png",
+    "StadiumCapacity": 26535
+  },
+  {
+    "Id": 479,
+    "Name": "Gimnasia Jujuy",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/479.png",
+    "City": "San Salvador de Jujuy, Provincia de Jujuy",
+    "StadiumName": "Estadio 23 de Agosto",
+    "StadiumImg": "https://media.api-sports.io/football/venues/76.png",
+    "StadiumCapacity": 23200
+  },
+  {
+    "Id": 480,
+    "Name": "Quilmes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/480.png",
+    "City": "Quilmes, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Centenario Ciudad de Quilmes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/20215.png",
+    "StadiumCapacity": 30200
+  },
+  {
+    "Id": 481,
+    "Name": "Villa Dalmine",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/481.png",
+    "City": "Campana, Provincia de Buenos Aires",
+    "StadiumName": "Estadio El Coliseo de Mitre y Puccini",
+    "StadiumImg": "https://media.api-sports.io/football/venues/117.png",
+    "StadiumCapacity": 11250
+  },
+  {
+    "Id": 482,
+    "Name": "Almagro",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/482.png",
+    "City": "Tres de Febrero, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Tres de Febrero",
+    "StadiumImg": "https://media.api-sports.io/football/venues/35.png",
+    "StadiumCapacity": 19000
+  },
+  {
+    "Id": 483,
+    "Name": "Los Andes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/483.png",
+    "City": "Lomas de Zamora, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Eduardo Gallardón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/90.png",
+    "StadiumCapacity": 33532
+  },
+  {
+    "Id": 484,
+    "Name": "Nueva Chicago",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/484.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio República de Mataderos",
+    "StadiumImg": "https://media.api-sports.io/football/venues/94.png",
+    "StadiumCapacity": 28500
+  },
+  {
+    "Id": 485,
+    "Name": "San Martin Tucuman",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/485.png",
+    "City": "San Miguel de Tucumán, Provincia de Tucumán",
+    "StadiumName": "Estadio La Ciudadela",
+    "StadiumImg": "https://media.api-sports.io/football/venues/105.png",
+    "StadiumCapacity": 27000
+  },
+  {
+    "Id": 486,
+    "Name": "Juventud Unida",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/486.png",
+    "City": "Ingeniero Adolfo Sourdeaux, Buenos Aires",
+    "StadiumName": "Estadio Islas Malvinas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18561.png",
+    "StadiumCapacity": 500
+  },
+  {
+    "Id": 787,
+    "Name": "Atletico Parana",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/787.png",
+    "City": "Paraná, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Pedro Mutio",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1714.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 788,
+    "Name": "Crucero Del Norte",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/788.png",
+    "City": "Gran Posadas, Provincia de Misiones",
+    "StadiumName": "Estadio Comandante Andrés Guacurarí",
+    "StadiumImg": "https://media.api-sports.io/football/venues/58.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 789,
+    "Name": "Douglas Haig",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/789.png",
+    "City": "Pergamino, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Miguel Morales",
+    "StadiumImg": "https://media.api-sports.io/football/venues/69.png",
+    "StadiumCapacity": 18000
+  },
+  {
+    "Id": 790,
+    "Name": "Central Cordoba",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/790.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Estadio Gabino Sosa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/52.png",
+    "StadiumCapacity": 17500
+  },
+  {
+    "Id": 1061,
+    "Name": "CDJU Gualeguaychu",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1061.png",
+    "City": "Gualeguaychú, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Luis Delfino",
+    "StadiumImg": "https://media.api-sports.io/football/venues/85.png",
+    "StadiumCapacity": 10000
+  },
+  {
+    "Id": 1064,
+    "Name": "Platense",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1064.png",
+    "City": "Vicente López, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ciudad de Vicente López",
+    "StadiumImg": "https://media.api-sports.io/football/venues/97.png",
+    "StadiumCapacity": 31030
+  },
+  {
+    "Id": 1065,
+    "Name": "Central Cordoba de Santiago",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1065.png",
+    "City": "Santiago del Estero, Provincia de Santiago del Est",
+    "StadiumName": "Estadio Alfredo Terrera",
+    "StadiumImg": "https://media.api-sports.io/football/venues/2997.png",
+    "StadiumCapacity": 16000
+  },
+  {
+    "Id": 1066,
+    "Name": "Gimnasia M.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1066.png",
+    "City": "Mendoza, Provincia de Mendoza",
+    "StadiumName": "Estadio Víctor Antonio Legrotaglie",
+    "StadiumImg": "https://media.api-sports.io/football/venues/78.png",
+    "StadiumCapacity": 11500
+  },
+  {
+    "Id": 1067,
+    "Name": "Defensores De Belgrano",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1067.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Juan Pasquale",
+    "StadiumImg": "https://media.api-sports.io/football/venues/60.png",
+    "StadiumCapacity": 8300
+  },
+  {
+    "Id": 1924,
+    "Name": "Deportivo Laferrere",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1924.png",
+    "City": "Gregorio de Laferrere, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Deportivo Laferrere",
+    "StadiumImg": "https://media.api-sports.io/football/venues/87.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 1925,
+    "Name": "Union Aconquija",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1925.png",
+    "City": "Andalgalá, Provincia de Catamarca",
+    "StadiumName": "Estadio de Tiro Federal y Gimnasia de Andalgalá",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1767.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 1927,
+    "Name": "Talleres Remedios",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1927.png",
+    "City": "Remedios Escalada, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Pablo Comelli",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19376.png",
+    "StadiumCapacity": 16000
+  },
+  {
+    "Id": 1928,
+    "Name": "Gimnasia Y Tiro",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1928.png",
+    "City": "Salta, Provincia de Salta",
+    "StadiumName": "Estadio El Gigante del Norte",
+    "StadiumImg": "https://media.api-sports.io/football/venues/79.png",
+    "StadiumCapacity": 24300
+  },
+  {
+    "Id": 1929,
+    "Name": "Deportivo Madryn",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1929.png",
+    "City": "Puerto Madryn, Provincia de Chubut",
+    "StadiumName": "Estadio Abel Sastre",
+    "StadiumImg": "https://media.api-sports.io/football/venues/63.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 1930,
+    "Name": "Sansinena",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1930.png",
+    "City": "General Daniel Cerri, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Luis Molina",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1843.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 1931,
+    "Name": "Sportivo Barracas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1931.png",
+    "City": "Morón, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Nuevo Francisco Urbano",
+    "StadiumImg": "https://media.api-sports.io/football/venues/65.png",
+    "StadiumCapacity": 32000
+  },
+  {
+    "Id": 1932,
+    "Name": "San Telmo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1932.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Dr. Osvaldo Francisco Baletto",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5957.png",
+    "StadiumCapacity": 7500
+  },
+  {
+    "Id": 1934,
+    "Name": "Union Sunchales",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1934.png",
+    "City": "Sunchales, Provincia de Santa Fe",
+    "StadiumName": "Estadio Unión de Sunchales",
+    "StadiumImg": "https://media.api-sports.io/football/venues/114.png",
+    "StadiumCapacity": 5650
+  },
+  {
+    "Id": 1935,
+    "Name": "San Martin Formosa",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1935.png",
+    "City": "Ciudad de Formosa, Provincia de Formosa",
+    "StadiumName": "Estadio 17 de Octubre",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19530.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 1936,
+    "Name": "CA Estudiantes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1936.png",
+    "City": "Caseros, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ciudad de Caseros",
+    "StadiumImg": "https://media.api-sports.io/football/venues/71.png",
+    "StadiumCapacity": 16740
+  },
+  {
+    "Id": 1937,
+    "Name": "Atletico Atlas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1937.png",
+    "City": "General Rodríguez, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ricardo Puga",
+    "StadiumImg": "https://media.api-sports.io/football/venues/40.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 1938,
+    "Name": "Villa Mitre",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1938.png",
+    "City": "Bahía Blanca, Provincia de Buenos Aires",
+    "StadiumName": "Estadio El Fortín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/118.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 1940,
+    "Name": "Leandro N. Alem",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1940.png",
+    "City": "General Rodríguez, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Leandro Nicéforo Alem",
+    "StadiumImg": "https://media.api-sports.io/football/venues/89.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 1941,
+    "Name": "Sol de Mayo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1941.png",
+    "City": "Viedma, Provincia de Río Negro",
+    "StadiumName": "Estadio Sol De Mayo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1771.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 1942,
+    "Name": "Sacachispas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1942.png",
+    "City": "Villa Soldati, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Beto Larrosa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/102.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 1943,
+    "Name": "Atletico Camioneros",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1943.png",
+    "City": "Luján, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Carlos V",
+    "StadiumImg": "https://media.api-sports.io/football/venues/75.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 1945,
+    "Name": "Defensores Unidos",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1945.png",
+    "City": "Zárate, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Gigante de Villa Fox",
+    "StadiumImg": "https://media.api-sports.io/football/venues/61.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 1946,
+    "Name": "Chaco For Ever",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1946.png",
+    "City": "Resistencia, Provincia del Chaco",
+    "StadiumName": "Estadio Juan Alberto García",
+    "StadiumImg": "https://media.api-sports.io/football/venues/55.png",
+    "StadiumCapacity": 30500
+  },
+  {
+    "Id": 1947,
+    "Name": "Canuelas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1947.png",
+    "City": "Cañuelas, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Jorge Alfredo Arín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/50.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 1948,
+    "Name": "Atlanta",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1948.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Don León Kolbovski",
+    "StadiumImg": "https://media.api-sports.io/football/venues/39.png",
+    "StadiumCapacity": 24500
+  },
+  {
+    "Id": 1949,
+    "Name": "Cipolletti",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1949.png",
+    "City": "Cipolletti, Provincia de Río Negro",
+    "StadiumName": "Estadio La Visera de Cemento",
+    "StadiumImg": "https://media.api-sports.io/football/venues/56.png",
+    "StadiumCapacity": 11000
+  },
+  {
+    "Id": 1950,
+    "Name": "Sportivo Las Parejas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1950.png",
+    "City": "Las Parejas, Provincia de Santa Fe",
+    "StadiumName": "Estadio La Perrera",
+    "StadiumImg": "https://media.api-sports.io/football/venues/109.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 1951,
+    "Name": "Central Norte",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1951.png",
+    "City": "Salta, Provincia de Salta",
+    "StadiumName": "Estadio Dr. Luis Güemes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18531.png",
+    "StadiumCapacity": 10000
+  },
+  {
+    "Id": 1953,
+    "Name": "Sarmiento Resistencia",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1953.png",
+    "City": "Resistencia, Provincia del Chaco",
+    "StadiumName": "Estadio Centenario del Club Atlético Sarmiento",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1733.png",
+    "StadiumCapacity": 25000
+  },
+  {
+    "Id": 1954,
+    "Name": "Deportivo Maipu",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1954.png",
+    "City": "Maipú, Provincia de Mendoza",
+    "StadiumName": "Estadio Omar Higinio Sperdutti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/64.png",
+    "StadiumCapacity": 9000
+  },
+  {
+    "Id": 1955,
+    "Name": "General Lamadrid",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1955.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Enrique VI",
+    "StadiumImg": "https://media.api-sports.io/football/venues/81.png",
+    "StadiumCapacity": 3500
+  },
+  {
+    "Id": 1956,
+    "Name": "UAI Urquiza",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1956.png",
+    "City": "General San Martín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Monumental de Villa Lynch",
+    "StadiumImg": "https://media.api-sports.io/football/venues/10527.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 1957,
+    "Name": "Racing Cordoba",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1957.png",
+    "City": "Ciudad de Córdoba, Provincia de Córdoba",
+    "StadiumName": "Estadio Miguel Sancho",
+    "StadiumImg": "https://media.api-sports.io/football/venues/100.png",
+    "StadiumCapacity": 22000
+  },
+  {
+    "Id": 1958,
+    "Name": "Lujan",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1958.png",
+    "City": "Luján, Provincia de Buenos Aires",
+    "StadiumName": "Campo Municipal de Deportes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/91.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 1959,
+    "Name": "Deportivo Rincon",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1959.png",
+    "City": "Rincón de Los Sauces, Provincia del Neuquén",
+    "StadiumName": "Estadio Gremio de Los Petroleros",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1885.png",
+    "StadiumCapacity": 3200
+  },
+  {
+    "Id": 1960,
+    "Name": "Independiente De Chivilcoy",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1960.png",
+    "City": "Chivilcoy, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Raúl Orlando Lungarzo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1769.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 1961,
+    "Name": "Juventud Antoniana",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1961.png",
+    "City": "Ciudad de Salta, Provincia de Salta",
+    "StadiumName": "Estadio Fray Honorato Pistoia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/86.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 1962,
+    "Name": "Alvarado",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1962.png",
+    "City": "Mar del Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José María Minella",
+    "StadiumImg": "https://media.api-sports.io/football/venues/33.png",
+    "StadiumCapacity": 35354
+  },
+  {
+    "Id": 1963,
+    "Name": "Midland",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1963.png",
+    "City": "Libertad, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ferrocarril Midland",
+    "StadiumImg": "https://media.api-sports.io/football/venues/92.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 1964,
+    "Name": "Victoriano Arenas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1964.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Saturnino Moure",
+    "StadiumImg": "https://media.api-sports.io/football/venues/116.png",
+    "StadiumCapacity": 1500
+  },
+  {
+    "Id": 1965,
+    "Name": "Tristan Suarez",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1965.png",
+    "City": "Ezeiza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio 20 de Octubre",
+    "StadiumImg": "https://media.api-sports.io/football/venues/113.png",
+    "StadiumCapacity": 13500
+  },
+  {
+    "Id": 1966,
+    "Name": "Sportivo Belgrano",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1966.png",
+    "City": "San Francisco, Provincia de Córdoba",
+    "StadiumName": "Estadio Juan Pablo Francia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18532.png",
+    "StadiumCapacity": 7000
+  },
+  {
+    "Id": 1967,
+    "Name": "Central Ballester",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/1967.png",
+    "City": "General Rodríguez, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ricardo Puga",
+    "StadiumImg": "https://media.api-sports.io/football/venues/40.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 2422,
+    "Name": "Real Pilar",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2422.png",
+    "City": "Partido de Pilar, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Municipal de Pilar",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1915.png",
+    "StadiumCapacity": 8500
+  },
+  {
+    "Id": 2423,
+    "Name": "Deportivo Roca",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2423.png",
+    "City": "General Roca, Provincia de Río Negro",
+    "StadiumName": "Estadio Luís Maiolino",
+    "StadiumImg": "https://media.api-sports.io/football/venues/67.png",
+    "StadiumCapacity": 10000
+  },
+  {
+    "Id": 2424,
+    "Name": "Estudiantes de Rio Cuarto",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2424.png",
+    "City": "Ciudad de Río Cuarto, Provincia de Córdoba",
+    "StadiumName": "Estadio Ciudad de Río Cuarto",
+    "StadiumImg": "https://media.api-sports.io/football/venues/72.png",
+    "StadiumCapacity": 9000
+  },
+  {
+    "Id": 2425,
+    "Name": "Acassuso",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2425.png",
+    "City": "San Isidro, Provincia de Buenos Aires",
+    "StadiumName": "Estadio La Quema",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19375.png",
+    "StadiumCapacity": 800
+  },
+  {
+    "Id": 2426,
+    "Name": "Defensores de Belgrano VR",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2426.png",
+    "City": "Villa Ramallo, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Salomón Boeseldín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1715.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 2427,
+    "Name": "Deportivo Armenio",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2427.png",
+    "City": "Ingeniero Maschwitz, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Armenia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/62.png",
+    "StadiumCapacity": 10500
+  },
+  {
+    "Id": 2428,
+    "Name": "Huracan Las Heras",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2428.png",
+    "City": "Las Heras, Provincia de Mendoza",
+    "StadiumName": "Estadio General San Martín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1732.png",
+    "StadiumCapacity": 10000
+  },
+  {
+    "Id": 2429,
+    "Name": "Dock Sud",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2429.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de los Inmigrantes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/68.png",
+    "StadiumCapacity": 6500
+  },
+  {
+    "Id": 2430,
+    "Name": "Argentino de Merlo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2430.png",
+    "City": "Parque San Martín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Manuel Moreno",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5966.png",
+    "StadiumCapacity": 6200
+  },
+  {
+    "Id": 2432,
+    "Name": "Barracas Central",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/2432.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Claudio Fabián Tapia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/44.png",
+    "StadiumCapacity": 4400
+  },
+  {
+    "Id": 3941,
+    "Name": "AH Zapla",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3941.png",
+    "City": "Palpalá, Provincia de Jujuy",
+    "StadiumName": "Estadio Coronel Emilio Fabrizzi",
+    "StadiumImg": "https://media.api-sports.io/football/venues/2998.png",
+    "StadiumCapacity": 20704
+  },
+  {
+    "Id": 3942,
+    "Name": "Def. de Pronunciamiento",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3942.png",
+    "City": "Pronunciamiento, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Delio Esteban Cardozo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/2999.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 3943,
+    "Name": "Deportivo Camioneros",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3943.png",
+    "City": "Río Grande, Tierra del Fuego",
+    "StadiumName": "Estadio Municipal del Centro Deportivo de Río Grande",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18533.png",
+    "StadiumCapacity": 1500
+  },
+  {
+    "Id": 3944,
+    "Name": "Ferro Carril Oeste LP",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3944.png",
+    "City": "General Pico, Provincia La Pampa",
+    "StadiumName": "Estadio Coloso de Barrio Talleres",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3001.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 3945,
+    "Name": "Gimnasia Concepción",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3945.png",
+    "City": "Concepción del Uruguay, Provincia de Entre Rios",
+    "StadiumName": "Estadio Manuel y Ramón Núñez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3002.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 3946,
+    "Name": "Independiente Neuquén",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3946.png",
+    "City": "Neuquén, Provincia de Neuquén",
+    "StadiumName": "Estadio José Rosas y Perito Moreno",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3003.png",
+    "StadiumCapacity": 9000
+  },
+  {
+    "Id": 3947,
+    "Name": "Juventud Unida Univ.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3947.png",
+    "City": "San Luis, Provincia de San Luis",
+    "StadiumName": "Estadio Mario Sebastián Diez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3004.png",
+    "StadiumCapacity": 13000
+  },
+  {
+    "Id": 3948,
+    "Name": "San Jorge Tucumán",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3948.png",
+    "City": "San Miguel de Tucumán, Provincia de Tucumán",
+    "StadiumName": "Estadio Luis Hayward",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3005.png",
+    "StadiumCapacity": 11000
+  },
+  {
+    "Id": 3949,
+    "Name": "San Lorenzo Alem",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3949.png",
+    "City": "San Fernando del Valle de Catamarca, Catamarca",
+    "StadiumName": "Estadio de la Liga Catamarqueña",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3006.png",
+    "StadiumCapacity": 6500
+  },
+  {
+    "Id": 3950,
+    "Name": "Sportivo Desamparados",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3950.png",
+    "City": "San Juan, Provincia de San Juan",
+    "StadiumName": "Estadio El Serpentario",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3007.png",
+    "StadiumCapacity": 10050
+  },
+  {
+    "Id": 3951,
+    "Name": "Atletico Pellegrini",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3951.png",
+    "City": "Ciudad de Salta, Provincia de Salta",
+    "StadiumName": "Estadio Liga Salteña de Fútbol",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3008.png",
+    "StadiumCapacity": 3500
+  },
+  {
+    "Id": 3952,
+    "Name": "Atlético San Jorge",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3952.png",
+    "City": "San Jorge, Provincia de Santa Fe",
+    "StadiumName": "Parque 23 de Junio",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3009.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 3953,
+    "Name": "Deportivo Achirense",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3953.png",
+    "City": "Las Achiras, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Guillermo Bonnín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3010.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 3954,
+    "Name": "Ferro Carril Sud",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3954.png",
+    "City": "Olavarría, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Domingo Francisco Colasurdo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3011.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 3955,
+    "Name": "Huracán San Rafael",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3955.png",
+    "City": "San Rafael, Provincia de Mendoza",
+    "StadiumName": "Estadio Pretel Hermanos",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3012.png",
+    "StadiumCapacity": 11000
+  },
+  {
+    "Id": 3956,
+    "Name": "Racing Olavarría",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3956.png",
+    "City": "Olavarría, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Domingo Buglione Martinese",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3013.png",
+    "StadiumCapacity": 11000
+  },
+  {
+    "Id": 3957,
+    "Name": "Rivadavia Lincoln",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3957.png",
+    "City": "Lincoln, Provincia de Buenos Aires",
+    "StadiumName": "Estadio El Coliseo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3014.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 3958,
+    "Name": "Sarmiento Leones",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3958.png",
+    "City": "Leones, Provincia de Córdoba",
+    "StadiumName": "Estadio La Calderita",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3015.png",
+    "StadiumCapacity": 3200
+  },
+  {
+    "Id": 3959,
+    "Name": "Sportivo Patria",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3959.png",
+    "City": "Ciudad de Formosa, Provincia de Formosa",
+    "StadiumName": "Estadio Antonio Romero",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1734.png",
+    "StadiumCapacity": 23000
+  },
+  {
+    "Id": 3960,
+    "Name": "Sportivo Peñarol",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3960.png",
+    "City": "San Juan, Provincia de San Juan",
+    "StadiumName": "Estadio Ramón Pablo Rojas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3016.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 3961,
+    "Name": "Unión Villa Krause",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3961.png",
+    "City": "Ciudad de Santa Fe, Provincia de Santa Fe",
+    "StadiumName": "Estadio 15 de Abril",
+    "StadiumImg": "https://media.api-sports.io/football/venues/1933.png",
+    "StadiumCapacity": 27000
+  },
+  {
+    "Id": 3962,
+    "Name": "Almirante Brown de Lules",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3962.png",
+    "City": "Lules, Provincia Tucuman",
+    "StadiumName": "Estadio Municipal",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3017.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 3963,
+    "Name": "Argentinos 25 de Mayo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3963.png",
+    "City": "25 de Mayo, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Argentinos 25 de Mayo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3018.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 3964,
+    "Name": "Atlético Colón Junior",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3964.png",
+    "City": "San Juan",
+    "StadiumName": "Estadio Dr. Jorge R. Barassi",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3019.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 3965,
+    "Name": "Atlético Laguna Blanca",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3965.png",
+    "City": "Laguna Blanca, Provincia de Formosa",
+    "StadiumName": "Estadio de Atlético Laguna Blanca",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3020.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 3966,
+    "Name": "Belgrano Paraná",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3966.png",
+    "City": "Paraná, Provincia de Entre Ríos",
+    "StadiumName": "Estadio Mondonguero",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3021.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 3967,
+    "Name": "Belgrano San Nicolás",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3967.png",
+    "City": "La Emilia, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Jacinto Gato López",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3022.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 3968,
+    "Name": "Ben Hur",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3968.png",
+    "City": "Rafaela, Provincia de Santa Fe",
+    "StadiumName": "Estadio Nestor Zenklusen",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3023.png",
+    "StadiumCapacity": 11500
+  },
+  {
+    "Id": 3969,
+    "Name": "Club Atlético Güemes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3969.png",
+    "City": "Santiago del Estero, Prov. de Santiago del Estero",
+    "StadiumName": "Estadio Arturo Jiya Miranda",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3024.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 3970,
+    "Name": "Comercio Central Unidos",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3970.png",
+    "City": "Santiago del Estero, Prov. de Santiago del Estero",
+    "StadiumName": "Estadio Raúl Adolfo Seijas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3025.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 3971,
+    "Name": "Ferroviario Corrientes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3971.png",
+    "City": "Corrientes, Provincia de Corrientes",
+    "StadiumName": "Estadio Juan Carlos Vallejos",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3026.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 3972,
+    "Name": "Germinal de Rawson",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3972.png",
+    "City": "Rawson, Provincia del Chubut",
+    "StadiumName": "Estadio El Fortín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3027.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 3973,
+    "Name": "Huracán de Comodoro",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3973.png",
+    "City": "Comodoro Rivadavia, Provincia del Chubut",
+    "StadiumName": "Estadio Cesar Muñoz",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3028.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 3974,
+    "Name": "Jorge Newbery CR",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3974.png",
+    "City": "Comodoro Rivadavia, Provincia del Chubut",
+    "StadiumName": "Estadio Jorge Newbery",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3029.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 3975,
+    "Name": "Kimberley Mar del Plata",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3975.png",
+    "City": "Mar del Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Antonio Valle",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3030.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 3976,
+    "Name": "Sportivo Barracas Colón",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3976.png",
+    "City": "Colón, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Hugo Viccei",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3031.png",
+    "StadiumCapacity": 4500
+  },
+  {
+    "Id": 3977,
+    "Name": "Talleres de Perico",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3977.png",
+    "City": "Perico, Provincia de Jujuy",
+    "StadiumName": "Estadio Doctor Plinio Zabala",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3032.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 3978,
+    "Name": "Textil Mandiyú",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3978.png",
+    "City": "Corrientes, Provincia de Corrientes",
+    "StadiumName": "Estadio José Antonio Romero Feris",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3033.png",
+    "StadiumCapacity": 15172
+  },
+  {
+    "Id": 3979,
+    "Name": "Tiro Federal",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3979.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Predio Club Atlético Tiro Federal Argentino De Rosario",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3034.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 3980,
+    "Name": "Tiro Federal Morteros",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3980.png",
+    "City": "Morteros, Provincia de Córdoba",
+    "StadiumName": "Estadio Bautista Monetti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3035.png",
+    "StadiumCapacity": 5500
+  },
+  {
+    "Id": 3981,
+    "Name": "Bella Vista",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3981.png",
+    "City": "Bahía Blanca, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ignacio Nicolás",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3036.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 3982,
+    "Name": "Sol de América",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/3982.png",
+    "City": "Ciudad de Formosa, Provincia de Formosa",
+    "StadiumName": "Estadio Club Sol de América Formosa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3037.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 8008,
+    "Name": "Comunicaciones",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8008.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Alfredo Ramos",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5709.png",
+    "StadiumCapacity": 2076
+  },
+  {
+    "Id": 8374,
+    "Name": "Fénix",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8374.png",
+    "City": "Parque San Martín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Manuel Moreno",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5966.png",
+    "StadiumCapacity": 6200
+  },
+  {
+    "Id": 8375,
+    "Name": "Almirante Brown",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8375.png",
+    "City": "La Matanza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Fragata Presidente Sarmiento",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5959.png",
+    "StadiumCapacity": 19000
+  },
+  {
+    "Id": 8376,
+    "Name": "Argentino Quilmes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8376.png",
+    "City": "Quilmes, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de Argentino de Quilmes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/10528.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 8377,
+    "Name": "Colegiales",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8377.png",
+    "City": "Vicente López, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de Colegiales",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5961.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 8378,
+    "Name": "JJ Urquiza",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8378.png",
+    "City": "Loma Hermosa, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Ramón Roque Martín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5962.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 8379,
+    "Name": "San Miguel",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8379.png",
+    "City": "Los Polvorines, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Malvinas Argentinas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5963.png",
+    "StadiumCapacity": 6800
+  },
+  {
+    "Id": 8380,
+    "Name": "Villa San Carlos",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8380.png",
+    "City": "Berisso, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Genancio Sálice",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5964.png",
+    "StadiumCapacity": 4000
+  },
+  {
+    "Id": 8381,
+    "Name": "Deportivo Español",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8381.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Nueva España",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5956.png",
+    "StadiumCapacity": 34500
+  },
+  {
+    "Id": 8382,
+    "Name": "Berazategui",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8382.png",
+    "City": "Berazategui, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Norman Lee",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5965.png",
+    "StadiumCapacity": 4240
+  },
+  {
+    "Id": 8383,
+    "Name": "Deportivo Merlo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8383.png",
+    "City": "Parque San Martín, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José Manuel Moreno",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5966.png",
+    "StadiumCapacity": 6200
+  },
+  {
+    "Id": 8384,
+    "Name": "El Porvenir",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8384.png",
+    "City": "Gerli, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Gildo Francisco Ghersinich",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5967.png",
+    "StadiumCapacity": 14000
+  },
+  {
+    "Id": 8385,
+    "Name": "Excursionistas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8385.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio de Excursionistas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5968.png",
+    "StadiumCapacity": 6900
+  },
+  {
+    "Id": 8386,
+    "Name": "Ituzaingó",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8386.png",
+    "City": "Ituzaingó, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de Ituzaingó",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5969.png",
+    "StadiumCapacity": 3300
+  },
+  {
+    "Id": 8387,
+    "Name": "San Martín Burzaco",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8387.png",
+    "City": "Burzaco, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Francisco Boga",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5970.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 8388,
+    "Name": "Sportivo Italiano",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8388.png",
+    "City": "La Matanza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio República de Italia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/32.png",
+    "StadiumCapacity": 6200
+  },
+  {
+    "Id": 8389,
+    "Name": "Argentino Rosario",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8389.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Estadio José María Olaeta",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5971.png",
+    "StadiumCapacity": 6800
+  },
+  {
+    "Id": 8390,
+    "Name": "Centro Español",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8390.png",
+    "City": "Ituzaingó, Provincia de Buenos Aires",
+    "StadiumName": "Estadio de Ituzaingó",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5969.png",
+    "StadiumCapacity": 3300
+  },
+  {
+    "Id": 8391,
+    "Name": "Claypole",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8391.png",
+    "City": "Claypole, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Rodolfo Vicente Capocasa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5973.png",
+    "StadiumCapacity": 1300
+  },
+  {
+    "Id": 8392,
+    "Name": "Defensores de Cambaceres",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8392.png",
+    "City": "Ensenada, Provincia de Buenos Aires",
+    "StadiumName": "Estadio 12 de Octubre",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5974.png",
+    "StadiumCapacity": 8500
+  },
+  {
+    "Id": 8393,
+    "Name": "Deportivo Muñiz",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8393.png",
+    "City": "Ingeniero Adolfo Sourdeaux, Buenos Aires",
+    "StadiumName": "Estadio Islas Malvinas",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18561.png",
+    "StadiumCapacity": 500
+  },
+  {
+    "Id": 8394,
+    "Name": "Deportivo Paraguayo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8394.png",
+    "City": "La Matanza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Juan Antonio Arias",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5976.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 8395,
+    "Name": "Liniers",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8395.png",
+    "City": "La Matanza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Juan Antonio Arias",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5976.png",
+    "StadiumCapacity": 3000
+  },
+  {
+    "Id": 8396,
+    "Name": "Lugano",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8396.png",
+    "City": "La Matanza, Provincia de Buenos Aires",
+    "StadiumName": "Estadio José María Moraños",
+    "StadiumImg": "https://media.api-sports.io/football/venues/10530.png",
+    "StadiumCapacity": 1500
+  },
+  {
+    "Id": 8397,
+    "Name": "Puerto Nuevo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8397.png",
+    "City": "Campana, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Rubén Carlos Vallejos",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5977.png",
+    "StadiumCapacity": 500
+  },
+  {
+    "Id": 8398,
+    "Name": "Yupanqui",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8398.png",
+    "City": "Merlo, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Juan Carlos Brieva",
+    "StadiumImg": "https://media.api-sports.io/football/venues/36.png",
+    "StadiumCapacity": 11000
+  },
+  {
+    "Id": 8399,
+    "Name": "Circulo Deportivo",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/8399.png",
+    "City": "Comandante Nicanor Otamendi, Pr. de Buenos Aires",
+    "StadiumName": "Estadio Guillermo Trama",
+    "StadiumImg": "https://media.api-sports.io/football/venues/5978.png",
+    "StadiumCapacity": 1300
+  },
+  {
+    "Id": 10187,
+    "Name": "Argentina U23",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/10187.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Monumental Antonio Vespucio Liberti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/31.png",
+    "StadiumCapacity": 65645
+  },
+  {
+    "Id": 10284,
+    "Name": "Argentina U20",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/10284.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Monumental Antonio Vespucio Liberti",
+    "StadiumImg": "https://media.api-sports.io/football/venues/31.png",
+    "StadiumCapacity": 65645
+  },
+  {
+    "Id": 11135,
+    "Name": "Guaraní A. Franco",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11135.png",
+    "City": "Posadas, Provincia de Misiones",
+    "StadiumName": "Estadio Clemente Argentino Fernández de Oliveira",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7443.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 11136,
+    "Name": "Unión Mar del Plata",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11136.png",
+    "City": "Mar del Plata, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Club Atlético Unión",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7444.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 11155,
+    "Name": "Deportivo Mandiyú",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11155.png",
+    "City": "Corrientes, Provincia de Corrientes",
+    "StadiumName": "Estadio José Antonio Romero Feris",
+    "StadiumImg": "https://media.api-sports.io/football/venues/3033.png",
+    "StadiumCapacity": 15172
+  },
+  {
+    "Id": 11156,
+    "Name": "Gutiérrez",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11156.png",
+    "City": "Maipú, Provincia de Mendoza",
+    "StadiumName": "Estadio General Gutiérrez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7452.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 11157,
+    "Name": "Libertad",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11157.png",
+    "City": "Sunchales, Provincia de Santa Fe",
+    "StadiumName": "Estadio Dr. Plácido Tita",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7453.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 11159,
+    "Name": "9 de Julio Morteros",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11159.png",
+    "City": "Morteros, Provincia de Córdoba",
+    "StadiumName": "Complejo Deportivo La Villa de los Deportes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7454.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 11160,
+    "Name": "Alianza Cutral Có",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11160.png",
+    "City": "Cutral Có, Provincia del Neuquén",
+    "StadiumName": "Estadio El Coloso del Ruca Quimey",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7455.png",
+    "StadiumCapacity": 16500
+  },
+  {
+    "Id": 11161,
+    "Name": "Américo Tesorieri",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11161.png",
+    "City": "La Rioja, Provincia de La Rioja",
+    "StadiumName": "Cancha del Club Américo Tesorieri",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7456.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 11162,
+    "Name": "Andino",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11162.png",
+    "City": "La Rioja, Provincia de La Rioja",
+    "StadiumName": "Polideportivo 20 de Agosto",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7457.png",
+    "StadiumCapacity": 5000
+  },
+  {
+    "Id": 11163,
+    "Name": "CAI",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11163.png",
+    "City": "Comodoro Rivadavia, Provincia del Chubut",
+    "StadiumName": "Estadio Municipal de Comodoro Rivadavia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7458.png",
+    "StadiumCapacity": 7500
+  },
+  {
+    "Id": 11164,
+    "Name": "Concepción FC",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11164.png",
+    "City": "Concepción, Provincia de Tucumán",
+    "StadiumName": "Estadio Antonio Guillén",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7459.png",
+    "StadiumCapacity": 12550
+  },
+  {
+    "Id": 11165,
+    "Name": "Tiro Federal BB",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11165.png",
+    "City": "Bahía Blanca, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Onofre Pirrone",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7460.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 11166,
+    "Name": "Vélez de San Ramón",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11166.png",
+    "City": "San Ramón, departamento Banda",
+    "StadiumName": "Estadio Coliseo de los Sueños",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7461.png",
+    "StadiumCapacity": 2500
+  },
+  {
+    "Id": 11167,
+    "Name": "Alumni",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11167.png",
+    "City": "Villa María, Provincia de Córdoba",
+    "StadiumName": "Estadio Plaza Manuel Anselmo Ocampo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7462.png",
+    "StadiumCapacity": 5600
+  },
+  {
+    "Id": 11168,
+    "Name": "Huracán Tres Arroyos",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/11168.png",
+    "City": null,
+    "StadiumName": "Estadio Roberto Lorenzo Bottino",
+    "StadiumImg": "https://media.api-sports.io/football/venues/7463.png",
+    "StadiumCapacity": 7000
+  },
+  {
+    "Id": 12500,
+    "Name": "Argentina U17",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/12500.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Estadio Mâs Monumental",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19570.png",
+    "StadiumCapacity": 83214
+  },
+  {
+    "Id": 16612,
+    "Name": "Ciudad de Bolívar",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/16612.png",
+    "City": "Bolívar, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Municipal Eva Perón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18534.png",
+    "StadiumCapacity": 3300
+  },
+  {
+    "Id": 18676,
+    "Name": "Aldosivi Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18676.png",
+    "City": "Mar del Plata, Provincia de Buenos Aires",
+    "StadiumName": "Predio Salvador Tatore Vuoso",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18483.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18677,
+    "Name": "Argentinos Juniors Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18677.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Predio CEFFA",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18484.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18678,
+    "Name": "Atlético Tucumán Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18678.png",
+    "City": "San Miguel de Tucumán, Provincia de Buenos Aires",
+    "StadiumName": "Predio Salmoiraghi",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18485.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18679,
+    "Name": "Banfield Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18679.png",
+    "City": "Luis Guillón, Provincia de Buenos Aires",
+    "StadiumName": "Predio Luis Guillón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18486.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18681,
+    "Name": "Boca Juniors Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18681.png",
+    "City": "Ezeiza, Provincia de Buenos Aires",
+    "StadiumName": "Centro de Entrenamiento de Boca Juniors - Auxiliar Nro. 2",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18487.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18682,
+    "Name": "Central Córdoba SdE Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18682.png",
+    "City": "La Dársena, Santiago del Estero",
+    "StadiumName": "Estadio Vélez de San Ramón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18488.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18683,
+    "Name": "Colón Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18683.png",
+    "City": "Santa Fe, Provincia de Santa Fe",
+    "StadiumName": "Cancha Auxiliar Colón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18489.png",
+    "StadiumCapacity": 1500
+  },
+  {
+    "Id": 18684,
+    "Name": "Defensa y Justicia Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18684.png",
+    "City": "Zeballos, Provincia de Buenos Aires",
+    "StadiumName": "Predio Bosques",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18490.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18685,
+    "Name": "Estudiantes La Plata Res",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18685.png",
+    "City": "La Plata, Provincia de Buenos Aires",
+    "StadiumName": "Country Club de Estudiantes de La Plata",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18491.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18686,
+    "Name": "Gimnasia La Plata Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18686.png",
+    "City": "Abasto, Provincia de Buenos Aires",
+    "StadiumName": "Estancia Chica Club de Gimnasia y Esgrima La Plata",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18492.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18687,
+    "Name": "Godoy Cruz Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18687.png",
+    "City": "Maipú, Provincia de Mendoza",
+    "StadiumName": "Predio Coquimbito",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18493.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18688,
+    "Name": "Huracán Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18688.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Predio La Quemita",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18494.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 18689,
+    "Name": "Independiente Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18689.png",
+    "City": "Avellaneda, Provincia de Buenos Aires",
+    "StadiumName": "Predio Independiente - Complejo Santo Domingo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18495.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18690,
+    "Name": "Lanús Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18690.png",
+    "City": "Lanús, Provincia de Buenos Aires",
+    "StadiumName": "Cancha 2 de Lanús",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19395.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18692,
+    "Name": "Patronato Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18692.png",
+    "City": "La Capilla, Provincia de Buenos Aires",
+    "StadiumName": "Predio La Capilla Defensa y Justicia",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18497.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18694,
+    "Name": "Racing Club Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18694.png",
+    "City": "Sarandí, Provincia de Buenos Aires",
+    "StadiumName": "Tita Mattiusi Predio Racing Club",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18498.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18695,
+    "Name": "River Plate Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18695.png",
+    "City": "Ezeiza, Provincia de Buenos Aires",
+    "StadiumName": "Polideportivo CA River Plate (Predio Ezeiza)",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18499.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18696,
+    "Name": "Rosario Central Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18696.png",
+    "City": "Rosario, Provincia de Santa Fe",
+    "StadiumName": "Estadio Gigante de Arroyito",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19391.png",
+    "StadiumCapacity": 41654
+  },
+  {
+    "Id": 18697,
+    "Name": "San Lorenzo Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18697.png",
+    "City": "Capital Federal, Ciudad de Buenos Aires",
+    "StadiumName": "Cancha Auxiliar San Lorenzo",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18500.png",
+    "StadiumCapacity": 2000
+  },
+  {
+    "Id": 18700,
+    "Name": "Tigre Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18700.png",
+    "City": "Rincón de Milberg, Provincia de Buenos Aires",
+    "StadiumName": "Predio Rincón",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18501.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18701,
+    "Name": "Unión Santa Fe Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18701.png",
+    "City": "Ciudad de Santa Fe, Provincia de Santa Fe",
+    "StadiumName": "Estadio Super Manuel Corral",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18502.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18702,
+    "Name": "Vélez Sársfield Res.",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18702.png",
+    "City": "Ituzaingó, Provincia Buenos Aires",
+    "StadiumName": "Predio Villa Olímpica de Vélez Sarsfield",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18503.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18764,
+    "Name": "Argentino Monte Maíz",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18764.png",
+    "City": "Laborde, Córdoba",
+    "StadiumName": "Estadio Olimpo de Laborde",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19438.png",
+    "StadiumCapacity": 1000
+  },
+  {
+    "Id": 18765,
+    "Name": "Liniers Bahía Blanca",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18765.png",
+    "City": "Bahía Blanca, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Dr. Alejandro Pérez",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18535.png",
+    "StadiumCapacity": 12000
+  },
+  {
+    "Id": 18915,
+    "Name": "Mercedes",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/18915.png",
+    "City": "Mercedes, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Liga Mercedes",
+    "StadiumImg": "https://media.api-sports.io/football/venues/18562.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 21040,
+    "Name": "9 de Julio Rafaela",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/21040.png",
+    "City": "Rafaela, Provincia de Santa Fe",
+    "StadiumName": "Estadio Germán Malacho Soltermam",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19531.png",
+    "StadiumCapacity": 8000
+  },
+  {
+    "Id": 21041,
+    "Name": "El Linqueño",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/21041.png",
+    "City": "Lincoln, Provincia de Buenos Aires",
+    "StadiumName": "Estadio Leonardo Costa",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19532.png",
+    "StadiumCapacity": 6000
+  },
+  {
+    "Id": 21042,
+    "Name": "San Martín Mendoza",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/21042.png",
+    "City": "San Martín, Provincia de Mendoza",
+    "StadiumName": "Estadio General José de San Martín",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19533.png",
+    "StadiumCapacity": 8782
+  },
+  {
+    "Id": 21043,
+    "Name": "Atenas",
+    "Country": "Argentina",
+    "Logo": "https://media.api-sports.io/football/teams/21043.png",
+    "City": "Ciudad de Río Cuarto, Provincia de Córdoba",
+    "StadiumName": "Estadio 9 de Julio",
+    "StadiumImg": "https://media.api-sports.io/football/venues/19534.png",
+    "StadiumCapacity": 7000
+  }
+]
