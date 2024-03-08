@@ -14,4 +14,5 @@ class Teams (models.Model):
     City = models.CharField(max_length=2000)
     StadiumName = models.CharField(max_length=2000)
     StadiumImg = models.CharField(max_length=2000)
+    StadiumCapacity = models.IntegerField()
 
