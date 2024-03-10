@@ -9,6 +9,10 @@ class LeaderboardViewSet(viewsets.ModelViewSet):
     queryset = Leaderboard.objects.all()
     serializer_class = LeaderboardSerializer
 
+    @action(methods=['delete'], detail=False)
+    def delete(self, request):
+        Leaderboard.objects.all().delete()
+
 
 class TeamsViewSet(viewsets.ModelViewSet):
     queryset = Teams.objects.all()
